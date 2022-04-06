@@ -7,6 +7,3 @@ queryHost=sys.argv[1]
 >>> dnsResponse = sr1(dnsRequest)   
 
 >>> print(dnsResponse[DNS].summary())                                                          
-
-
-# DNS Ans "b'star-mini.c10r.facebook.com.'" 
